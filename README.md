@@ -1,5 +1,5 @@
 # OptAuth
-Novel Python image encryption: OpenCV processes a grayscale image, generating a secret key from random matrices. Encryption uses **FFT** and multiplication, showcasing complexity. Decryption reconstructs the original image, ensuring secure transmission and storage.
+**Novel Python image encryption: OpenCV processes a grayscale image, generating a secret key from random matrices. Encryption uses **FFT** and multiplication, showcasing complexity. Decryption reconstructs the original image, ensuring secure transmission and storage.**
 
 In this image encryption and decryption process using Python, a novel approach is
 employed to enhance the security of transmitted images. The algorithm leverages
@@ -29,5 +29,4 @@ of the secret key, contributes to a comprehensive understanding of the proposed
 image security technique. The encrypted image's complexity and the successful
 reconstruction of the original image underscore the potential applications of this
 method in secure image transmission and storage.
-
 
